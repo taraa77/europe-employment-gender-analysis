@@ -1,0 +1,1897 @@
+sex,country,year,employment_rate,observation_flag
+Females,Austria,2009,68.2,none
+Females,Austria,2010,68.8,none
+Females,Austria,2011,69.2,none
+Females,Austria,2012,69.6,none
+Females,Austria,2013,70.0,none
+Females,Austria,2014,70.1,none
+Females,Austria,2015,70.2,none
+Females,Austria,2016,70.9,none
+Females,Austria,2017,71.4,none
+Females,Austria,2018,71.7,none
+Females,Austria,2019,72.4,none
+Females,Austria,2020,70.6,none
+Females,Austria,2021,71.3,none
+Females,Austria,2022,73.4,none
+Females,Austria,2023,73.3,none
+Females,Austria,2024,73.9,none
+Females,Austria,2025,74.2,none
+Females,Bosnia and Herzegovina,2021,39.1,none
+Females,Bosnia and Herzegovina,2022,40.0,none
+Females,Bosnia and Herzegovina,2023,42.1,none
+Females,Bosnia and Herzegovina,2024,44.3,none
+Females,Bosnia and Herzegovina,2025,45.2,none
+Females,Belgium,2009,61.0,none
+Females,Belgium,2010,61.6,none
+Females,Belgium,2011,61.5,none
+Females,Belgium,2012,61.7,none
+Females,Belgium,2013,62.1,none
+Females,Belgium,2014,62.9,none
+Females,Belgium,2015,63.0,none
+Females,Belgium,2016,63.0,none
+Females,Belgium,2017,63.6,b
+Females,Belgium,2018,65.5,none
+Females,Belgium,2019,66.5,none
+Females,Belgium,2020,65.6,none
+Females,Belgium,2021,66.8,none
+Females,Belgium,2022,68.1,none
+Females,Belgium,2023,68.3,none
+Females,Belgium,2024,68.3,none
+Females,Belgium,2025,69.3,none
+Females,Bulgaria,2009,63.6,none
+Females,Bulgaria,2010,60.3,b
+Females,Bulgaria,2011,59.4,b
+Females,Bulgaria,2012,59.8,none
+Females,Bulgaria,2013,60.2,none
+Females,Bulgaria,2014,61.5,none
+Females,Bulgaria,2015,63.3,none
+Females,Bulgaria,2016,63.6,none
+Females,Bulgaria,2017,66.8,none
+Females,Bulgaria,2018,67.8,none
+Females,Bulgaria,2019,70.2,b
+Females,Bulgaria,2020,68.5,none
+Females,Bulgaria,2021,69.1,none
+Females,Bulgaria,2022,72.1,none
+Females,Bulgaria,2023,72.6,none
+Females,Bulgaria,2024,73.1,b
+Females,Bulgaria,2025,73.2,none
+Females,Switzerland,2010,73.2,b
+Females,Switzerland,2011,74.6,none
+Females,Switzerland,2012,75.3,none
+Females,Switzerland,2013,75.3,none
+Females,Switzerland,2014,76.2,none
+Females,Switzerland,2015,76.8,none
+Females,Switzerland,2016,77.5,none
+Females,Switzerland,2017,77.4,none
+Females,Switzerland,2018,77.9,none
+Females,Switzerland,2019,78.6,none
+Females,Switzerland,2020,78.3,none
+Females,Switzerland,2021,78.1,none
+Females,Switzerland,2022,78.4,none
+Females,Switzerland,2023,79.2,none
+Females,Switzerland,2024,79.5,none
+Females,Switzerland,2025,79.2,none
+Females,Cyprus,2009,68.3,none
+Females,Cyprus,2010,68.8,none
+Females,Cyprus,2011,67.7,none
+Females,Cyprus,2012,64.8,none
+Females,Cyprus,2013,62.2,none
+Females,Cyprus,2014,63.9,none
+Females,Cyprus,2015,64.0,none
+Females,Cyprus,2016,64.1,none
+Females,Cyprus,2017,66.2,none
+Females,Cyprus,2018,68.9,none
+Females,Cyprus,2019,70.7,none
+Females,Cyprus,2020,69.5,none
+Females,Cyprus,2021,70.8,none
+Females,Cyprus,2022,73.4,none
+Females,Cyprus,2023,75.2,none
+Females,Cyprus,2024,75.0,none
+Females,Cyprus,2025,76.3,none
+Females,Czechia,2009,61.4,none
+Females,Czechia,2010,60.9,none
+Females,Czechia,2011,61.7,b
+Females,Czechia,2012,62.5,none
+Females,Czechia,2013,63.8,none
+Females,Czechia,2014,64.7,none
+Females,Czechia,2015,66.4,none
+Females,Czechia,2016,68.6,none
+Females,Czechia,2017,70.5,none
+Females,Czechia,2018,72.2,none
+Females,Czechia,2019,72.7,none
+Females,Czechia,2020,71.9,none
+Females,Czechia,2021,72.1,none
+Females,Czechia,2022,73.7,none
+Females,Czechia,2023,74.5,none
+Females,Czechia,2024,75.8,none
+Females,Czechia,2025,77.5,none
+Females,Germany,2009,67.8,none
+Females,Germany,2010,68.8,b
+Females,Germany,2011,70.3,b
+Females,Germany,2012,70.7,none
+Females,Germany,2013,71.5,none
+Females,Germany,2014,72.2,none
+Females,Germany,2015,72.7,none
+Females,Germany,2016,73.6,none
+Females,Germany,2017,74.3,none
+Females,Germany,2018,75.0,none
+Females,Germany,2019,75.7,none
+Females,Germany,2020,74.6,b
+Females,Germany,2021,75.9,none
+Females,Germany,2022,77.0,none
+Females,Germany,2023,77.4,none
+Females,Germany,2024,77.7,none
+Females,Germany,2025,77.7,none
+Females,Denmark,2009,73.1,none
+Females,Denmark,2010,72.0,none
+Females,Denmark,2011,71.4,none
+Females,Denmark,2012,71.1,none
+Females,Denmark,2013,71.2,none
+Females,Denmark,2014,71.0,none
+Females,Denmark,2015,71.5,none
+Females,Denmark,2016,72.5,b
+Females,Denmark,2017,73.2,b
+Females,Denmark,2018,73.9,none
+Females,Denmark,2019,74.7,none
+Females,Denmark,2020,74.3,none
+Females,Denmark,2021,75.5,none
+Females,Denmark,2022,77.4,none
+Females,Denmark,2023,77.0,b
+Females,Denmark,2024,76.9,none
+Females,Denmark,2025,76.7,none
+Females,Euro area – 20 countries (2023-2025),2009,61.7,none
+Females,Euro area – 20 countries (2023-2025),2010,61.6,none
+Females,Euro area – 20 countries (2023-2025),2011,61.9,none
+Females,Euro area – 20 countries (2023-2025),2012,61.8,none
+Females,Euro area – 20 countries (2023-2025),2013,61.9,none
+Females,Euro area – 20 countries (2023-2025),2014,62.5,none
+Females,Euro area – 20 countries (2023-2025),2015,63.3,none
+Females,Euro area – 20 countries (2023-2025),2016,64.3,none
+Females,Euro area – 20 countries (2023-2025),2017,65.3,none
+Females,Euro area – 20 countries (2023-2025),2018,66.3,none
+Females,Euro area – 20 countries (2023-2025),2019,67.2,none
+Females,Euro area – 20 countries (2023-2025),2020,66.0,none
+Females,Euro area – 20 countries (2023-2025),2021,67.4,none
+Females,Euro area – 20 countries (2023-2025),2022,68.9,none
+Females,Euro area – 20 countries (2023-2025),2023,69.9,none
+Females,Euro area – 20 countries (2023-2025),2024,70.5,none
+Females,Euro area – 20 countries (2023-2025),2025,71.0,none
+Females,Euro area – 21 countries (from 2026),2009,61.7,none
+Females,Euro area – 21 countries (from 2026),2010,61.5,none
+Females,Euro area – 21 countries (from 2026),2011,61.8,none
+Females,Euro area – 21 countries (from 2026),2012,61.8,none
+Females,Euro area – 21 countries (from 2026),2013,61.8,none
+Females,Euro area – 21 countries (from 2026),2014,62.5,none
+Females,Euro area – 21 countries (from 2026),2015,63.3,none
+Females,Euro area – 21 countries (from 2026),2016,64.3,none
+Females,Euro area – 21 countries (from 2026),2017,65.3,none
+Females,Euro area – 21 countries (from 2026),2018,66.3,none
+Females,Euro area – 21 countries (from 2026),2019,67.2,none
+Females,Euro area – 21 countries (from 2026),2020,66.1,none
+Females,Euro area – 21 countries (from 2026),2021,67.4,none
+Females,Euro area – 21 countries (from 2026),2022,69.0,none
+Females,Euro area – 21 countries (from 2026),2023,69.9,none
+Females,Euro area – 21 countries (from 2026),2024,70.5,none
+Females,Euro area – 21 countries (from 2026),2025,71.1,none
+Females,Estonia,2009,69.9,none
+Females,Estonia,2010,67.4,none
+Females,Estonia,2011,68.6,none
+Females,Estonia,2012,71.1,none
+Females,Estonia,2013,71.6,none
+Females,Estonia,2014,71.9,none
+Females,Estonia,2015,73.7,none
+Females,Estonia,2016,73.7,none
+Females,Estonia,2017,76.8,none
+Females,Estonia,2018,76.8,none
+Females,Estonia,2019,77.5,none
+Females,Estonia,2020,76.9,none
+Females,Estonia,2021,77.5,none
+Females,Estonia,2022,80.4,none
+Females,Estonia,2023,80.9,none
+Females,Estonia,2024,80.9,none
+Females,Estonia,2025,81.4,none
+Females,Greece,2009,52.4,none
+Females,Greece,2010,51.2,none
+Females,Greece,2011,48.1,none
+Females,Greece,2012,44.6,none
+Females,Greece,2013,42.9,none
+Females,Greece,2014,43.8,none
+Females,Greece,2015,45.6,none
+Females,Greece,2016,46.2,none
+Females,Greece,2017,47.4,none
+Females,Greece,2018,48.3,none
+Females,Greece,2019,50.5,none
+Females,Greece,2020,48.7,none
+Females,Greece,2021,52.7,none
+Females,Greece,2022,55.9,none
+Females,Greece,2023,57.6,none
+Females,Greece,2024,59.9,none
+Females,Greece,2025,62.3,none
+Females,Spain,2009,56.8,none
+Females,Spain,2010,56.3,none
+Females,Spain,2011,56.1,none
+Females,Spain,2012,54.6,none
+Females,Spain,2013,53.8,none
+Females,Spain,2014,54.8,none
+Females,Spain,2015,56.4,none
+Females,Spain,2016,58.1,none
+Females,Spain,2017,59.6,none
+Females,Spain,2018,61.0,none
+Females,Spain,2019,62.1,none
+Females,Spain,2020,60.0,none
+Females,Spain,2021,62.1,d
+Females,Spain,2022,63.7,d
+Females,Spain,2023,65.4,d
+Females,Spain,2024,66.5,d
+Females,Spain,2025,67.6,d
+Females,European Union - 27 countries (from 2020),2009,60.6,none
+Females,European Union - 27 countries (from 2020),2010,60.7,none
+Females,European Union - 27 countries (from 2020),2011,60.9,none
+Females,European Union - 27 countries (from 2020),2012,61.0,none
+Females,European Union - 27 countries (from 2020),2013,61.2,none
+Females,European Union - 27 countries (from 2020),2014,62.0,none
+Females,European Union - 27 countries (from 2020),2015,63.0,none
+Females,European Union - 27 countries (from 2020),2016,64.1,none
+Females,European Union - 27 countries (from 2020),2017,65.3,none
+Females,European Union - 27 countries (from 2020),2018,66.3,none
+Females,European Union - 27 countries (from 2020),2019,67.1,none
+Females,European Union - 27 countries (from 2020),2020,66.2,none
+Females,European Union - 27 countries (from 2020),2021,67.6,none
+Females,European Union - 27 countries (from 2020),2022,69.3,none
+Females,European Union - 27 countries (from 2020),2023,70.2,none
+Females,European Union - 27 countries (from 2020),2024,70.8,none
+Females,European Union - 27 countries (from 2020),2025,71.3,none
+Females,Finland,2009,71.5,none
+Females,Finland,2010,70.3,none
+Females,Finland,2011,70.7,none
+Females,Finland,2012,71.3,none
+Females,Finland,2013,71.0,none
+Females,Finland,2014,71.2,none
+Females,Finland,2015,70.7,none
+Females,Finland,2016,70.8,none
+Females,Finland,2017,71.3,none
+Females,Finland,2018,73.4,none
+Females,Finland,2019,74.5,none
+Females,Finland,2020,73.8,none
+Females,Finland,2021,75.8,none
+Females,Finland,2022,77.8,none
+Females,Finland,2023,78.1,none
+Females,Finland,2024,76.6,none
+Females,Finland,2025,75.7,none
+Females,France,2005,64.8,none
+Females,France,2006,65.0,none
+Females,France,2007,65.9,none
+Females,France,2008,66.5,none
+Females,France,2009,65.9,none
+Females,France,2010,65.8,none
+Females,France,2011,65.6,none
+Females,France,2012,66.0,none
+Females,France,2013,66.4,none
+Females,France,2014,67.0,none
+Females,France,2015,67.4,none
+Females,France,2016,67.7,none
+Females,France,2017,68.1,none
+Females,France,2018,68.9,none
+Females,France,2019,69.4,none
+Females,France,2020,69.3,none
+Females,France,2021,70.2,d
+Females,France,2022,71.2,d
+Females,France,2023,71.7,d
+Females,France,2024,72.2,d
+Females,France,2025,72.8,d
+Females,Croatia,2009,57.9,none
+Females,Croatia,2010,56.1,none
+Females,Croatia,2011,53.7,none
+Females,Croatia,2012,52.6,none
+Females,Croatia,2013,52.8,none
+Females,Croatia,2014,54.2,none
+Females,Croatia,2015,55.8,none
+Females,Croatia,2016,56.5,none
+Females,Croatia,2017,58.1,none
+Females,Croatia,2018,59.7,none
+Females,Croatia,2019,61.2,none
+Females,Croatia,2020,61.3,none
+Females,Croatia,2021,63.4,none
+Females,Croatia,2022,65.5,none
+Females,Croatia,2023,66.9,none
+Females,Croatia,2024,70.6,none
+Females,Croatia,2025,71.8,none
+Females,Hungary,2009,58.6,none
+Females,Hungary,2010,59.0,none
+Females,Hungary,2011,59.2,none
+Females,Hungary,2012,60.4,none
+Females,Hungary,2013,61.2,none
+Females,Hungary,2014,64.1,none
+Females,Hungary,2015,66.2,none
+Females,Hungary,2016,68.9,none
+Females,Hungary,2017,69.9,none
+Females,Hungary,2018,71.4,b
+Females,Hungary,2019,72.1,none
+Females,Hungary,2020,72.0,none
+Females,Hungary,2021,73.6,none
+Females,Hungary,2022,75.4,none
+Females,Hungary,2023,76.1,none
+Females,Hungary,2024,77.1,none
+Females,Hungary,2025,77.0,none
+Females,Ireland,2009,62.8,none
+Females,Ireland,2010,61.0,none
+Females,Ireland,2011,60.1,none
+Females,Ireland,2012,60.2,none
+Females,Ireland,2013,61.2,none
+Females,Ireland,2014,62.3,none
+Females,Ireland,2015,63.7,none
+Females,Ireland,2016,65.3,none
+Females,Ireland,2017,66.9,none
+Females,Ireland,2018,67.9,none
+Females,Ireland,2019,68.8,none
+Females,Ireland,2020,65.8,none
+Females,Ireland,2021,69.9,b
+Females,Ireland,2022,72.6,none
+Females,Ireland,2023,74.3,none
+Females,Ireland,2024,75.2,none
+Females,Ireland,2025,75.7,none
+Females,Iceland,2009,77.8,none
+Females,Iceland,2010,77.6,none
+Females,Iceland,2011,77.9,none
+Females,Iceland,2012,79.1,none
+Females,Iceland,2013,79.5,none
+Females,Iceland,2014,81.7,none
+Females,Iceland,2015,83.3,none
+Females,Iceland,2016,84.4,none
+Females,Iceland,2017,84.5,none
+Females,Iceland,2018,83.2,none
+Females,Iceland,2019,83.0,none
+Females,Iceland,2020,79.2,b
+Females,Iceland,2021,77.5,none
+Females,Iceland,2022,82.1,none
+Females,Iceland,2023,82.1,none
+Females,Iceland,2024,83.4,none
+Females,Italy,2009,49.5,none
+Females,Italy,2010,49.2,none
+Females,Italy,2011,49.6,none
+Females,Italy,2012,50.1,none
+Females,Italy,2013,49.6,none
+Females,Italy,2014,50.1,none
+Females,Italy,2015,50.5,none
+Females,Italy,2016,51.6,none
+Females,Italy,2017,52.5,none
+Females,Italy,2018,53.2,b
+Females,Italy,2019,53.9,none
+Females,Italy,2020,52.1,none
+Females,Italy,2021,53.2,none
+Females,Italy,2022,55.0,none
+Females,Italy,2023,56.5,none
+Females,Italy,2024,57.4,none
+Females,Italy,2025,58.0,none
+Females,Lithuania,2009,67.2,none
+Females,Lithuania,2010,65.0,none
+Females,Lithuania,2011,66.6,none
+Females,Lithuania,2012,67.9,none
+Females,Lithuania,2013,68.6,none
+Females,Lithuania,2014,70.6,none
+Females,Lithuania,2015,72.2,none
+Females,Lithuania,2016,74.3,none
+Females,Lithuania,2017,75.5,none
+Females,Lithuania,2018,76.7,none
+Females,Lithuania,2019,77.4,none
+Females,Lithuania,2020,75.8,none
+Females,Lithuania,2021,76.7,none
+Females,Lithuania,2022,78.6,none
+Females,Lithuania,2023,77.7,none
+Females,Lithuania,2024,78.5,none
+Females,Lithuania,2025,80.3,none
+Females,Luxembourg,2009,61.5,none
+Females,Luxembourg,2010,62.0,none
+Females,Luxembourg,2011,61.9,none
+Females,Luxembourg,2012,64.1,none
+Females,Luxembourg,2013,63.9,none
+Females,Luxembourg,2014,65.5,none
+Females,Luxembourg,2015,65.0,b
+Females,Luxembourg,2016,65.1,none
+Females,Luxembourg,2017,67.5,none
+Females,Luxembourg,2018,68.0,none
+Females,Luxembourg,2019,68.1,none
+Females,Luxembourg,2020,68.5,none
+Females,Luxembourg,2021,70.3,none
+Females,Luxembourg,2022,71.5,none
+Females,Luxembourg,2023,71.4,none
+Females,Luxembourg,2024,71.4,none
+Females,Luxembourg,2025,70.5,none
+Females,Latvia,2009,66.2,none
+Females,Latvia,2010,64.2,none
+Females,Latvia,2011,65.1,none
+Females,Latvia,2012,66.2,none
+Females,Latvia,2013,67.5,none
+Females,Latvia,2014,68.4,none
+Females,Latvia,2015,70.5,none
+Females,Latvia,2016,71.7,none
+Females,Latvia,2017,72.6,none
+Females,Latvia,2018,74.7,none
+Females,Latvia,2019,75.5,none
+Females,Latvia,2020,75.1,none
+Females,Latvia,2021,72.9,none
+Females,Latvia,2022,75.5,none
+Females,Latvia,2023,76.0,none
+Females,Latvia,2024,75.8,none
+Females,Latvia,2025,77.3,none
+Females,Montenegro,2011,44.4,none
+Females,Montenegro,2012,46.2,none
+Females,Montenegro,2013,47.5,none
+Females,Montenegro,2014,49.7,none
+Females,Montenegro,2015,51.6,none
+Females,Montenegro,2016,51.3,none
+Females,Montenegro,2017,51.4,none
+Females,Montenegro,2018,52.9,none
+Females,Montenegro,2019,54.2,none
+Females,Montenegro,2020,48.8,none
+Females,North Macedonia,2009,37.1,none
+Females,North Macedonia,2010,37.5,none
+Females,North Macedonia,2011,38.8,none
+Females,North Macedonia,2012,38.7,none
+Females,North Macedonia,2013,40.7,none
+Females,North Macedonia,2014,40.8,none
+Females,North Macedonia,2015,42.1,none
+Females,North Macedonia,2016,42.5,none
+Females,North Macedonia,2017,43.7,none
+Females,North Macedonia,2018,45.2,none
+Females,North Macedonia,2019,48.4,none
+Females,North Macedonia,2020,49.0,none
+Females,North Macedonia,2021,51.6,b
+Females,North Macedonia,2022,51.7,none
+Females,North Macedonia,2023,52.7,none
+Females,North Macedonia,2024,53.7,none
+Females,North Macedonia,2025,54.4,none
+Females,Malta,2009,40.0,none
+Females,Malta,2010,41.6,none
+Females,Malta,2011,43.8,none
+Females,Malta,2012,48.0,none
+Females,Malta,2013,51.7,none
+Females,Malta,2014,54.3,none
+Females,Malta,2015,55.3,none
+Females,Malta,2016,58.0,none
+Females,Malta,2017,60.6,none
+Females,Malta,2018,63.2,none
+Females,Malta,2019,63.9,none
+Females,Malta,2020,66.0,none
+Females,Malta,2021,68.4,none
+Females,Malta,2022,72.9,none
+Females,Malta,2023,73.6,none
+Females,Malta,2024,75.2,none
+Females,Malta,2025,76.7,none
+Females,Netherlands,2009,70.9,none
+Females,Netherlands,2010,70.9,none
+Females,Netherlands,2011,71.5,none
+Females,Netherlands,2012,72.0,none
+Females,Netherlands,2013,71.7,none
+Females,Netherlands,2014,70.8,none
+Females,Netherlands,2015,71.9,none
+Females,Netherlands,2016,72.7,none
+Females,Netherlands,2017,73.9,none
+Females,Netherlands,2018,75.2,none
+Females,Netherlands,2019,76.5,none
+Females,Netherlands,2020,76.6,none
+Females,Netherlands,2021,77.5,none
+Females,Netherlands,2022,79.0,none
+Females,Netherlands,2023,79.6,none
+Females,Netherlands,2024,79.7,none
+Females,Netherlands,2025,79.6,none
+Females,Norway,2009,78.9,none
+Females,Norway,2010,78.2,none
+Females,Norway,2011,78.6,none
+Females,Norway,2012,78.6,none
+Females,Norway,2013,78.4,none
+Females,Norway,2014,78.1,none
+Females,Norway,2015,77.9,none
+Females,Norway,2016,78.1,none
+Females,Norway,2017,77.6,none
+Females,Norway,2018,78.0,none
+Females,Norway,2019,78.3,none
+Females,Norway,2020,77.9,none
+Females,Norway,2021,77.5,none
+Females,Norway,2022,78.0,none
+Females,Norway,2023,77.8,none
+Females,Norway,2024,77.4,none
+Females,Norway,2025,77.0,none
+Females,Poland,2009,55.6,none
+Females,Poland,2010,55.6,b
+Females,Poland,2011,55.8,none
+Females,Poland,2012,56.2,none
+Females,Poland,2013,56.3,none
+Females,Poland,2014,58.2,none
+Females,Poland,2015,59.9,none
+Females,Poland,2016,61.5,none
+Females,Poland,2017,63.0,none
+Females,Poland,2018,64.5,none
+Females,Poland,2019,65.3,b
+Females,Poland,2020,65.4,none
+Females,Poland,2021,68.5,none
+Females,Poland,2022,70.3,none
+Females,Poland,2023,72.0,none
+Females,Poland,2024,72.5,none
+Females,Poland,2025,73.2,none
+Females,Portugal,2009,62.3,none
+Females,Portugal,2010,62.1,none
+Females,Portugal,2011,62.3,none
+Females,Portugal,2012,60.8,none
+Females,Portugal,2013,60.4,none
+Females,Portugal,2014,62.9,none
+Females,Portugal,2015,64.8,none
+Females,Portugal,2016,66.5,none
+Females,Portugal,2017,69.0,none
+Females,Portugal,2018,71.5,none
+Females,Portugal,2019,72.1,none
+Females,Portugal,2020,71.2,none
+Females,Portugal,2021,72.7,none
+Females,Portugal,2022,74.3,none
+Females,Portugal,2023,75.4,none
+Females,Portugal,2024,75.7,none
+Females,Portugal,2025,77.0,none
+Females,Romania,2009,45.2,none
+Females,Romania,2010,47.6,none
+Females,Romania,2011,47.7,none
+Females,Romania,2012,48.2,none
+Females,Romania,2013,48.2,none
+Females,Romania,2014,49.2,none
+Females,Romania,2015,50.3,none
+Females,Romania,2016,51.4,none
+Females,Romania,2017,54.0,none
+Females,Romania,2018,54.5,none
+Females,Romania,2019,55.4,none
+Females,Romania,2020,55.4,none
+Females,Romania,2021,56.9,none
+Females,Romania,2022,59.1,none
+Females,Romania,2023,59.1,none
+Females,Romania,2024,60.3,none
+Females,Romania,2025,59.5,none
+Females,Serbia,2010,43.5,none
+Females,Serbia,2011,39.9,none
+Females,Serbia,2012,39.5,none
+Females,Serbia,2013,42.2,none
+Females,Serbia,2014,45.7,none
+Females,Serbia,2015,46.8,none
+Females,Serbia,2016,50.4,none
+Females,Serbia,2017,53.0,none
+Females,Serbia,2018,54.5,none
+Females,Serbia,2019,55.8,none
+Females,Serbia,2020,56.6,none
+Females,Serbia,2021,58.9,none
+Females,Serbia,2022,61.8,none
+Females,Serbia,2023,63.4,none
+Females,Serbia,2024,65.5,none
+Females,Serbia,2025,65.8,none
+Females,Sweden,2005,74.8,none
+Females,Sweden,2006,75.2,none
+Females,Sweden,2007,76.5,none
+Females,Sweden,2008,76.7,none
+Females,Sweden,2009,75.1,none
+Females,Sweden,2010,74.4,none
+Females,Sweden,2011,76.0,none
+Females,Sweden,2012,76.4,none
+Females,Sweden,2013,76.7,none
+Females,Sweden,2014,77.2,none
+Females,Sweden,2015,77.9,none
+Females,Sweden,2016,78.7,none
+Females,Sweden,2017,79.2,none
+Females,Sweden,2018,79.7,none
+Females,Sweden,2019,79.1,none
+Females,Sweden,2020,77.5,none
+Females,Sweden,2021,77.7,none
+Females,Sweden,2022,79.1,none
+Females,Sweden,2023,80.2,none
+Females,Sweden,2024,79.9,none
+Females,Sweden,2025,79.8,none
+Females,Slovenia,2009,67.6,none
+Females,Slovenia,2010,66.0,none
+Females,Slovenia,2011,64.4,none
+Females,Slovenia,2012,64.2,none
+Females,Slovenia,2013,62.6,none
+Females,Slovenia,2014,63.2,none
+Females,Slovenia,2015,64.2,none
+Females,Slovenia,2016,66.2,none
+Females,Slovenia,2017,69.3,none
+Females,Slovenia,2018,71.2,none
+Females,Slovenia,2019,72.5,none
+Females,Slovenia,2020,71.7,none
+Females,Slovenia,2021,72.6,none
+Females,Slovenia,2022,74.3,none
+Females,Slovenia,2023,74.3,none
+Females,Slovenia,2024,75.1,none
+Females,Slovenia,2025,75.7,none
+Females,Slovakia,2009,62.4,none
+Females,Slovakia,2010,61.6,none
+Females,Slovakia,2011,61.6,b
+Females,Slovakia,2012,61.5,none
+Females,Slovakia,2013,62.0,none
+Females,Slovakia,2014,62.9,none
+Females,Slovakia,2015,64.6,none
+Females,Slovakia,2016,67.2,none
+Females,Slovakia,2017,69.4,none
+Females,Slovakia,2018,70.3,none
+Females,Slovakia,2019,71.7,none
+Females,Slovakia,2020,70.9,none
+Females,Slovakia,2021,70.4,none
+Females,Slovakia,2022,72.6,none
+Females,Slovakia,2023,73.6,none
+Females,Slovakia,2024,73.6,none
+Females,Slovakia,2025,73.7,none
+Females,Türkiye,2009,25.8,none
+Females,Türkiye,2010,28.0,none
+Females,Türkiye,2011,29.7,none
+Females,Türkiye,2012,30.9,none
+Females,Türkiye,2013,31.8,none
+Females,Türkiye,2014,31.6,b
+Females,Türkiye,2015,32.5,none
+Females,Türkiye,2016,33.2,none
+Females,Türkiye,2017,34.5,none
+Females,Türkiye,2018,35.2,none
+Females,Türkiye,2019,34.4,none
+Females,Türkiye,2020,32.0,none
+Females,Türkiye,2021,34.2,b
+Females,Türkiye,2022,37.0,none
+Females,Türkiye,2023,38.0,none
+Females,Türkiye,2024,39.4,none
+Females,Türkiye,2025,39.1,none
+Males,Austria,2009,78.7,none
+Males,Austria,2010,79.0,none
+Males,Austria,2011,79.2,none
+Males,Austria,2012,79.3,none
+Males,Austria,2013,79.1,none
+Males,Austria,2014,78.3,none
+Males,Austria,2015,78.4,none
+Males,Austria,2016,78.7,none
+Males,Austria,2017,79.4,none
+Males,Austria,2018,80.7,none
+Males,Austria,2019,81.2,none
+Males,Austria,2020,79.0,none
+Males,Austria,2021,79.9,none
+Males,Austria,2022,81.2,none
+Males,Austria,2023,81.1,none
+Males,Austria,2024,80.8,none
+Males,Austria,2025,81.0,none
+Males,Bosnia and Herzegovina,2021,66.0,none
+Males,Bosnia and Herzegovina,2022,67.7,none
+Males,Bosnia and Herzegovina,2023,69.5,none
+Males,Bosnia and Herzegovina,2024,71.9,none
+Males,Bosnia and Herzegovina,2025,73.5,none
+Males,Belgium,2009,73.2,none
+Males,Belgium,2010,73.5,none
+Males,Belgium,2011,73.0,none
+Males,Belgium,2012,72.7,none
+Males,Belgium,2013,72.3,none
+Males,Belgium,2014,71.6,none
+Males,Belgium,2015,71.3,none
+Males,Belgium,2016,72.3,none
+Males,Belgium,2017,73.4,b
+Males,Belgium,2018,73.9,none
+Males,Belgium,2019,74.5,none
+Males,Belgium,2020,73.7,none
+Males,Belgium,2021,74.5,none
+Males,Belgium,2022,75.7,none
+Males,Belgium,2023,75.9,none
+Males,Belgium,2024,76.3,none
+Males,Belgium,2025,76.4,none
+Males,Bulgaria,2009,72.9,none
+Males,Bulgaria,2010,67.8,b
+Males,Bulgaria,2011,65.2,b
+Males,Bulgaria,2012,65.0,none
+Males,Bulgaria,2013,65.6,none
+Males,Bulgaria,2014,67.3,none
+Males,Bulgaria,2015,69.6,none
+Males,Bulgaria,2016,70.4,none
+Males,Bulgaria,2017,74.4,none
+Males,Bulgaria,2018,75.5,none
+Males,Bulgaria,2019,78.3,b
+Males,Bulgaria,2020,76.8,none
+Males,Bulgaria,2021,77.5,none
+Males,Bulgaria,2022,79.6,none
+Males,Bulgaria,2023,79.9,none
+Males,Bulgaria,2024,80.3,b
+Males,Bulgaria,2025,80.6,none
+Males,Switzerland,2010,86.1,b
+Males,Switzerland,2011,86.8,none
+Males,Switzerland,2012,86.7,none
+Males,Switzerland,2013,86.2,none
+Males,Switzerland,2014,86.0,none
+Males,Switzerland,2015,86.5,none
+Males,Switzerland,2016,86.5,none
+Males,Switzerland,2017,86.8,none
+Males,Switzerland,2018,87.0,none
+Males,Switzerland,2019,87.3,none
+Males,Switzerland,2020,86.6,none
+Males,Switzerland,2021,85.9,none
+Males,Switzerland,2022,86.3,none
+Males,Switzerland,2023,86.9,none
+Males,Switzerland,2024,86.4,none
+Males,Switzerland,2025,85.7,none
+Males,Cyprus,2009,82.8,none
+Males,Cyprus,2010,81.7,none
+Males,Cyprus,2011,79.6,none
+Males,Cyprus,2012,76.1,none
+Males,Cyprus,2013,72.6,none
+Males,Cyprus,2014,71.6,none
+Males,Cyprus,2015,72.3,none
+Males,Cyprus,2016,73.8,none
+Males,Cyprus,2017,75.7,none
+Males,Cyprus,2018,79.3,none
+Males,Cyprus,2019,81.3,none
+Males,Cyprus,2020,81.1,none
+Males,Cyprus,2021,82.3,none
+Males,Cyprus,2022,84.3,none
+Males,Cyprus,2023,84.2,none
+Males,Cyprus,2024,85.0,none
+Males,Cyprus,2025,86.4,none
+Males,Czechia,2009,80.2,none
+Males,Czechia,2010,79.6,none
+Males,Czechia,2011,79.9,b
+Males,Czechia,2012,80.2,none
+Males,Czechia,2013,81.0,none
+Males,Czechia,2014,82.2,none
+Males,Czechia,2015,83.0,none
+Males,Czechia,2016,84.6,none
+Males,Czechia,2017,86.3,none
+Males,Czechia,2018,87.4,none
+Males,Czechia,2019,87.7,none
+Males,Czechia,2020,87.2,none
+Males,Czechia,2021,87.5,none
+Males,Czechia,2022,88.6,none
+Males,Czechia,2023,88.4,none
+Males,Czechia,2024,88.4,none
+Males,Czechia,2025,88.2,none
+Males,Germany,2009,78.5,none
+Males,Germany,2010,79.3,b
+Males,Germany,2011,80.6,b
+Males,Germany,2012,81.0,none
+Males,Germany,2013,81.0,none
+Males,Germany,2014,81.2,none
+Males,Germany,2015,81.2,none
+Males,Germany,2016,81.6,none
+Males,Germany,2017,82.1,none
+Males,Germany,2018,82.8,none
+Males,Germany,2019,83.6,none
+Males,Germany,2020,82.0,b
+Males,Germany,2021,83.2,none
+Males,Germany,2022,84.5,none
+Males,Germany,2023,84.8,none
+Males,Germany,2024,84.8,none
+Males,Germany,2025,84.5,none
+Males,Denmark,2009,79.1,none
+Males,Denmark,2010,77.7,none
+Males,Denmark,2011,78.3,none
+Males,Denmark,2012,77.5,none
+Males,Denmark,2013,77.5,none
+Males,Denmark,2014,78.4,none
+Males,Denmark,2015,79.3,none
+Males,Denmark,2016,79.4,b
+Males,Denmark,2017,79.9,b
+Males,Denmark,2018,80.9,none
+Males,Denmark,2019,81.9,none
+Males,Denmark,2020,81.3,none
+Males,Denmark,2021,82.4,none
+Males,Denmark,2022,82.8,none
+Males,Denmark,2023,82.6,b
+Males,Denmark,2024,83.4,none
+Males,Denmark,2025,82.9,none
+Males,Euro area – 20 countries (2023-2025),2009,75.0,none
+Males,Euro area – 20 countries (2023-2025),2010,74.4,none
+Males,Euro area – 20 countries (2023-2025),2011,74.3,none
+Males,Euro area – 20 countries (2023-2025),2012,73.4,none
+Males,Euro area – 20 countries (2023-2025),2013,72.7,none
+Males,Euro area – 20 countries (2023-2025),2014,73.2,none
+Males,Euro area – 20 countries (2023-2025),2015,74.1,none
+Males,Euro area – 20 countries (2023-2025),2016,75.1,none
+Males,Euro area – 20 countries (2023-2025),2017,76.1,none
+Males,Euro area – 20 countries (2023-2025),2018,77.1,none
+Males,Euro area – 20 countries (2023-2025),2019,77.7,none
+Males,Euro area – 20 countries (2023-2025),2020,76.3,none
+Males,Euro area – 20 countries (2023-2025),2021,77.5,none
+Males,Euro area – 20 countries (2023-2025),2022,79.1,none
+Males,Euro area – 20 countries (2023-2025),2023,79.6,none
+Males,Euro area – 20 countries (2023-2025),2024,80.1,none
+Males,Euro area – 20 countries (2023-2025),2025,80.3,none
+Males,Euro area – 21 countries (from 2026),2009,75.0,none
+Males,Euro area – 21 countries (from 2026),2010,74.2,none
+Males,Euro area – 21 countries (from 2026),2011,74.1,none
+Males,Euro area – 21 countries (from 2026),2012,73.2,none
+Males,Euro area – 21 countries (from 2026),2013,72.6,none
+Males,Euro area – 21 countries (from 2026),2014,73.0,none
+Males,Euro area – 21 countries (from 2026),2015,74.0,none
+Males,Euro area – 21 countries (from 2026),2016,75.0,none
+Males,Euro area – 21 countries (from 2026),2017,76.1,none
+Males,Euro area – 21 countries (from 2026),2018,77.1,none
+Males,Euro area – 21 countries (from 2026),2019,77.7,none
+Males,Euro area – 21 countries (from 2026),2020,76.3,none
+Males,Euro area – 21 countries (from 2026),2021,77.5,none
+Males,Euro area – 21 countries (from 2026),2022,79.1,none
+Males,Euro area – 21 countries (from 2026),2023,79.6,none
+Males,Euro area – 21 countries (from 2026),2024,80.1,none
+Males,Euro area – 21 countries (from 2026),2025,80.3,none
+Males,Estonia,2009,71.0,none
+Males,Estonia,2010,67.9,none
+Males,Estonia,2011,73.5,none
+Males,Estonia,2012,75.2,none
+Males,Estonia,2013,76.8,none
+Males,Estonia,2014,78.4,none
+Males,Estonia,2015,80.0,none
+Males,Estonia,2016,80.5,none
+Males,Estonia,2017,81.7,none
+Males,Estonia,2018,82.8,none
+Males,Estonia,2019,83.5,none
+Males,Estonia,2020,81.3,none
+Males,Estonia,2021,81.2,none
+Males,Estonia,2022,83.3,none
+Males,Estonia,2023,83.3,none
+Males,Estonia,2024,82.6,none
+Males,Estonia,2025,81.9,none
+Males,Greece,2009,78.6,none
+Males,Greece,2010,76.0,none
+Males,Greece,2011,70.8,none
+Males,Greece,2012,64.7,none
+Males,Greece,2013,62.4,none
+Males,Greece,2014,62.6,none
+Males,Greece,2015,64.2,none
+Males,Greece,2016,65.7,none
+Males,Greece,2017,67.6,none
+Males,Greece,2018,69.9,none
+Males,Greece,2019,71.2,none
+Males,Greece,2020,68.1,none
+Males,Greece,2021,72.5,none
+Males,Greece,2022,76.9,none
+Males,Greece,2023,77.4,none
+Males,Greece,2024,78.7,none
+Males,Greece,2025,79.7,none
+Males,Spain,2009,71.0,none
+Males,Spain,2010,69.2,none
+Males,Spain,2011,67.7,none
+Males,Spain,2012,64.6,none
+Males,Spain,2013,63.4,none
+Males,Spain,2014,65.0,none
+Males,Spain,2015,67.6,none
+Males,Spain,2016,69.6,none
+Males,Spain,2017,71.5,none
+Males,Spain,2018,73.1,none
+Males,Spain,2019,74.0,none
+Males,Spain,2020,71.4,none
+Males,Spain,2021,72.9,d
+Males,Spain,2022,74.9,d
+Males,Spain,2023,75.7,d
+Males,Spain,2024,76.3,d
+Males,Spain,2025,77.1,d
+Males,European Union - 27 countries (from 2020),2009,74.0,none
+Males,European Union - 27 countries (from 2020),2010,73.4,none
+Males,European Union - 27 countries (from 2020),2011,73.4,none
+Males,European Union - 27 countries (from 2020),2012,72.8,none
+Males,European Union - 27 countries (from 2020),2013,72.4,none
+Males,European Union - 27 countries (from 2020),2014,73.1,none
+Males,European Union - 27 countries (from 2020),2015,74.1,none
+Males,European Union - 27 countries (from 2020),2016,75.2,none
+Males,European Union - 27 countries (from 2020),2017,76.5,none
+Males,European Union - 27 countries (from 2020),2018,77.6,none
+Males,European Union - 27 countries (from 2020),2019,78.4,none
+Males,European Union - 27 countries (from 2020),2020,77.2,none
+Males,European Union - 27 countries (from 2020),2021,78.5,none
+Males,European Union - 27 countries (from 2020),2022,79.9,none
+Males,European Union - 27 countries (from 2020),2023,80.4,none
+Males,European Union - 27 countries (from 2020),2024,80.8,none
+Males,European Union - 27 countries (from 2020),2025,80.9,none
+Males,Finland,2009,73.7,none
+Males,Finland,2010,73.4,none
+Males,Finland,2011,74.6,none
+Males,Finland,2012,74.6,none
+Males,Finland,2013,73.9,none
+Males,Finland,2014,73.2,none
+Males,Finland,2015,72.8,none
+Males,Finland,2016,74.0,none
+Males,Finland,2017,75.1,none
+Males,Finland,2018,77.2,none
+Males,Finland,2019,77.8,none
+Males,Finland,2020,77.1,none
+Males,Finland,2021,77.8,none
+Males,Finland,2022,79.0,none
+Males,Finland,2023,78.3,none
+Males,Finland,2024,77.3,none
+Males,Finland,2025,77.0,none
+Males,France,2005,75.0,none
+Males,France,2006,74.7,none
+Males,France,2007,74.7,none
+Males,France,2008,75.2,none
+Males,France,2009,73.9,none
+Males,France,2010,73.7,none
+Males,France,2011,73.7,none
+Males,France,2012,73.6,none
+Males,France,2013,73.3,none
+Males,France,2014,73.1,none
+Males,France,2015,73.3,none
+Males,France,2016,73.8,none
+Males,France,2017,74.7,none
+Males,France,2018,75.3,none
+Males,France,2019,75.3,none
+Males,France,2020,75.0,none
+Males,France,2021,76.4,d
+Males,France,2022,77.0,d
+Males,France,2023,77.2,d
+Males,France,2024,78.1,d
+Males,France,2025,78.4,d
+Males,Croatia,2009,70.6,none
+Males,Croatia,2010,67.9,none
+Males,Croatia,2011,66.5,none
+Males,Croatia,2012,63.6,none
+Males,Croatia,2013,61.6,none
+Males,Croatia,2014,64.2,none
+Males,Croatia,2015,65.3,none
+Males,Croatia,2016,66.2,none
+Males,Croatia,2017,68.6,none
+Males,Croatia,2018,70.2,none
+Males,Croatia,2019,71.7,none
+Males,Croatia,2020,72.5,none
+Males,Croatia,2021,73.8,none
+Males,Croatia,2022,74.9,none
+Males,Croatia,2023,74.6,none
+Males,Croatia,2024,76.5,none
+Males,Croatia,2025,76.8,none
+Males,Hungary,2009,66.5,none
+Males,Hungary,2010,65.6,none
+Males,Hungary,2011,66.5,none
+Males,Hungary,2012,67.3,none
+Males,Hungary,2013,69.3,none
+Males,Hungary,2014,73.5,none
+Males,Hungary,2015,75.8,none
+Males,Hungary,2016,78.6,none
+Males,Hungary,2017,81.0,none
+Males,Hungary,2018,82.2,b
+Males,Hungary,2019,83.2,none
+Males,Hungary,2020,83.2,none
+Males,Hungary,2021,84.2,none
+Males,Hungary,2022,85.2,none
+Males,Hungary,2023,85.2,none
+Males,Hungary,2024,85.0,none
+Males,Hungary,2025,85.1,none
+Males,Ireland,2009,73.2,none
+Males,Ireland,2010,70.0,none
+Males,Ireland,2011,69.0,none
+Males,Ireland,2012,68.8,none
+Males,Ireland,2013,71.8,none
+Males,Ireland,2014,74.1,none
+Males,Ireland,2015,76.1,none
+Males,Ireland,2016,77.5,none
+Males,Ireland,2017,79.1,none
+Males,Ireland,2018,80.2,none
+Males,Ireland,2019,81.3,none
+Males,Ireland,2020,78.5,none
+Males,Ireland,2021,80.0,b
+Males,Ireland,2022,84.0,none
+Males,Ireland,2023,84.2,none
+Males,Ireland,2024,84.5,none
+Males,Ireland,2025,84.7,none
+Males,Iceland,2009,83.2,none
+Males,Iceland,2010,83.1,none
+Males,Iceland,2011,83.3,none
+Males,Iceland,2012,84.4,none
+Males,Iceland,2013,86.0,none
+Males,Iceland,2014,88.0,none
+Males,Iceland,2015,89.6,none
+Males,Iceland,2016,91.1,none
+Males,Iceland,2017,90.5,none
+Males,Iceland,2018,89.5,none
+Males,Iceland,2019,88.6,none
+Males,Iceland,2020,85.1,b
+Males,Iceland,2021,84.9,none
+Males,Iceland,2022,87.3,none
+Males,Iceland,2023,88.2,none
+Males,Iceland,2024,90.2,none
+Males,Italy,2009,72.9,none
+Males,Italy,2010,71.9,none
+Males,Italy,2011,71.7,none
+Males,Italy,2012,70.6,none
+Males,Italy,2013,68.8,none
+Males,Italy,2014,69.0,none
+Males,Italy,2015,70.2,none
+Males,Italy,2016,71.5,none
+Males,Italy,2017,72.2,none
+Males,Italy,2018,72.9,b
+Males,Italy,2019,73.3,none
+Males,Italy,2020,71.8,none
+Males,Italy,2021,72.4,none
+Males,Italy,2022,74.7,none
+Males,Italy,2023,76.0,none
+Males,Italy,2024,76.8,none
+Males,Italy,2025,77.1,none
+Males,Lithuania,2009,66.8,none
+Males,Lithuania,2010,63.5,none
+Males,Lithuania,2011,67.2,none
+Males,Lithuania,2012,69.1,none
+Males,Lithuania,2013,71.2,none
+Males,Lithuania,2014,73.1,none
+Males,Lithuania,2015,74.6,none
+Males,Lithuania,2016,76.2,none
+Males,Lithuania,2017,76.5,none
+Males,Lithuania,2018,79.0,none
+Males,Lithuania,2019,79.0,none
+Males,Lithuania,2020,77.5,none
+Males,Lithuania,2021,78.1,none
+Males,Lithuania,2022,79.4,none
+Males,Lithuania,2023,79.2,none
+Males,Lithuania,2024,79.9,none
+Males,Lithuania,2025,79.7,none
+Males,Luxembourg,2009,79.0,none
+Males,Luxembourg,2010,79.2,none
+Males,Luxembourg,2011,78.1,none
+Males,Luxembourg,2012,78.5,none
+Males,Luxembourg,2013,78.0,none
+Males,Luxembourg,2014,78.4,none
+Males,Luxembourg,2015,76.7,b
+Males,Luxembourg,2016,76.1,none
+Males,Luxembourg,2017,75.4,none
+Males,Luxembourg,2018,76.0,none
+Males,Luxembourg,2019,77.2,none
+Males,Luxembourg,2020,75.6,none
+Males,Luxembourg,2021,77.7,none
+Males,Luxembourg,2022,78.0,none
+Males,Luxembourg,2023,78.2,none
+Males,Luxembourg,2024,76.9,none
+Males,Luxembourg,2025,77.3,none
+Males,Latvia,2009,66.4,none
+Males,Latvia,2010,63.6,none
+Males,Latvia,2011,67.1,none
+Males,Latvia,2012,69.8,none
+Males,Latvia,2013,71.7,none
+Males,Latvia,2014,72.9,none
+Males,Latvia,2015,74.6,none
+Males,Latvia,2016,74.5,none
+Males,Latvia,2017,76.9,none
+Males,Latvia,2018,79.0,none
+Males,Latvia,2019,79.2,none
+Males,Latvia,2020,78.8,none
+Males,Latvia,2021,77.7,none
+Males,Latvia,2022,78.6,none
+Males,Latvia,2023,79.1,none
+Males,Latvia,2024,79.1,none
+Males,Latvia,2025,79.2,none
+Males,Montenegro,2011,57.0,none
+Males,Montenegro,2012,57.9,none
+Males,Montenegro,2013,58.1,none
+Males,Montenegro,2014,61.4,none
+Males,Montenegro,2015,61.9,none
+Males,Montenegro,2016,63.0,none
+Males,Montenegro,2017,65.2,none
+Males,Montenegro,2018,66.7,none
+Males,Montenegro,2019,67.5,none
+Males,Montenegro,2020,61.7,none
+Males,North Macedonia,2009,58.4,none
+Males,North Macedonia,2010,58.4,none
+Males,North Macedonia,2011,57.8,none
+Males,North Macedonia,2012,57.5,none
+Males,North Macedonia,2013,59.7,none
+Males,North Macedonia,2014,61.6,none
+Males,North Macedonia,2015,61.5,none
+Males,North Macedonia,2016,63.7,none
+Males,North Macedonia,2017,65.6,none
+Males,North Macedonia,2018,66.6,none
+Males,North Macedonia,2019,69.7,none
+Males,North Macedonia,2020,68.9,none
+Males,North Macedonia,2021,70.8,b
+Males,North Macedonia,2022,71.8,none
+Males,North Macedonia,2023,70.7,none
+Males,North Macedonia,2024,71.7,none
+Males,North Macedonia,2025,73.1,none
+Males,Malta,2009,77.5,none
+Males,Malta,2010,78.2,none
+Males,Malta,2011,79.0,none
+Males,Malta,2012,79.4,none
+Males,Malta,2013,80.3,none
+Males,Malta,2014,81.1,none
+Males,Malta,2015,82.1,none
+Males,Malta,2016,83.5,none
+Males,Malta,2017,84.7,none
+Males,Malta,2018,85.5,none
+Males,Malta,2019,85.9,none
+Males,Malta,2020,84.9,none
+Males,Malta,2021,86.0,none
+Males,Malta,2022,86.2,none
+Males,Malta,2023,87.7,none
+Males,Malta,2024,88.8,none
+Males,Malta,2025,89.1,none
+Males,Netherlands,2009,84.2,none
+Males,Netherlands,2010,83.0,none
+Males,Netherlands,2011,82.9,none
+Males,Netherlands,2012,82.8,none
+Males,Netherlands,2013,81.6,none
+Males,Netherlands,2014,81.7,none
+Males,Netherlands,2015,82.5,none
+Males,Netherlands,2016,83.2,none
+Males,Netherlands,2017,83.8,none
+Males,Netherlands,2018,84.8,none
+Males,Netherlands,2019,85.4,none
+Males,Netherlands,2020,85.0,none
+Males,Netherlands,2021,85.7,none
+Males,Netherlands,2022,86.9,none
+Males,Netherlands,2023,87.4,none
+Males,Netherlands,2024,87.3,none
+Males,Netherlands,2025,87.2,none
+Males,Norway,2009,82.9,none
+Males,Norway,2010,81.7,none
+Males,Norway,2011,82.2,none
+Males,Norway,2012,82.2,none
+Males,Norway,2013,81.9,none
+Males,Norway,2014,82.1,none
+Males,Norway,2015,81.4,none
+Males,Norway,2016,80.7,none
+Males,Norway,2017,80.6,none
+Males,Norway,2018,81.9,none
+Males,Norway,2019,82.1,none
+Males,Norway,2020,81.3,none
+Males,Norway,2021,82.3,none
+Males,Norway,2022,83.7,none
+Males,Norway,2023,82.8,none
+Males,Norway,2024,82.5,none
+Males,Norway,2025,82.0,none
+Males,Poland,2009,69.9,none
+Males,Poland,2010,68.8,b
+Males,Poland,2011,69.3,none
+Males,Poland,2012,69.7,none
+Males,Poland,2013,70.0,none
+Males,Poland,2014,71.8,none
+Males,Poland,2015,72.9,none
+Males,Poland,2016,74.9,none
+Males,Poland,2017,77.0,none
+Males,Poland,2018,78.3,none
+Males,Poland,2019,79.9,b
+Males,Poland,2020,80.2,none
+Males,Poland,2021,82.4,none
+Males,Poland,2022,83.2,none
+Males,Poland,2023,83.8,none
+Males,Poland,2024,84.1,none
+Males,Poland,2025,84.5,none
+Males,Portugal,2009,73.1,none
+Males,Portugal,2010,72.0,none
+Males,Portugal,2011,71.2,none
+Males,Portugal,2012,67.5,none
+Males,Portugal,2013,66.5,none
+Males,Portugal,2014,69.4,none
+Males,Portugal,2015,71.2,none
+Males,Portugal,2016,72.7,none
+Males,Portugal,2017,76.1,none
+Males,Portugal,2018,78.0,none
+Males,Portugal,2019,78.9,none
+Males,Portugal,2020,76.8,none
+Males,Portugal,2021,78.4,none
+Males,Portugal,2022,80.1,none
+Males,Portugal,2023,80.9,none
+Males,Portugal,2024,81.4,none
+Males,Portugal,2025,82.4,none
+Males,Romania,2009,62.7,none
+Males,Romania,2010,65.1,none
+Males,Romania,2011,64.4,none
+Males,Romania,2012,65.4,none
+Males,Romania,2013,65.4,none
+Males,Romania,2014,66.7,none
+Males,Romania,2015,68.0,none
+Males,Romania,2016,69.1,none
+Males,Romania,2017,71.3,none
+Males,Romania,2018,73.0,none
+Males,Romania,2019,74.6,none
+Males,Romania,2020,74.7,none
+Males,Romania,2021,77.0,none
+Males,Romania,2022,77.7,none
+Males,Romania,2023,78.2,none
+Males,Romania,2024,78.4,none
+Males,Romania,2025,78.2,none
+Males,Serbia,2010,60.2,none
+Males,Serbia,2011,56.6,none
+Males,Serbia,2012,56.4,none
+Males,Serbia,2013,59.2,none
+Males,Serbia,2014,61.4,none
+Males,Serbia,2015,62.8,none
+Males,Serbia,2016,65.5,none
+Males,Serbia,2017,67.9,none
+Males,Serbia,2018,70.1,none
+Males,Serbia,2019,70.1,none
+Males,Serbia,2020,70.9,none
+Males,Serbia,2021,73.6,none
+Males,Serbia,2022,75.8,none
+Males,Serbia,2023,75.9,none
+Males,Serbia,2024,77.2,none
+Males,Serbia,2025,77.3,none
+Males,Sweden,2005,80.6,none
+Males,Sweden,2006,81.5,none
+Males,Sweden,2007,82.9,none
+Males,Sweden,2008,83.3,none
+Males,Sweden,2009,80.7,none
+Males,Sweden,2010,80.9,none
+Males,Sweden,2011,82.0,none
+Males,Sweden,2012,81.7,none
+Males,Sweden,2013,82.0,none
+Males,Sweden,2014,82.0,none
+Males,Sweden,2015,82.3,none
+Males,Sweden,2016,82.8,none
+Males,Sweden,2017,83.6,none
+Males,Sweden,2018,84.2,none
+Males,Sweden,2019,84.3,none
+Males,Sweden,2020,82.8,none
+Males,Sweden,2021,83.1,none
+Males,Sweden,2022,84.8,none
+Males,Sweden,2023,84.9,none
+Males,Sweden,2024,83.9,none
+Males,Sweden,2025,83.7,none
+Males,Slovenia,2009,75.0,none
+Males,Slovenia,2010,73.1,none
+Males,Slovenia,2011,71.1,none
+Males,Slovenia,2012,71.1,none
+Males,Slovenia,2013,70.6,none
+Males,Slovenia,2014,71.0,none
+Males,Slovenia,2015,72.7,none
+Males,Slovenia,2016,72.7,none
+Males,Slovenia,2017,76.2,none
+Males,Slovenia,2018,78.3,none
+Males,Slovenia,2019,79.0,none
+Males,Slovenia,2020,77.6,none
+Males,Slovenia,2021,79.3,none
+Males,Slovenia,2022,81.2,none
+Males,Slovenia,2023,80.4,none
+Males,Slovenia,2024,81.1,none
+Males,Slovenia,2025,80.6,none
+Males,Slovakia,2009,74.2,none
+Males,Slovakia,2010,71.5,none
+Males,Slovakia,2011,72.1,b
+Males,Slovakia,2012,72.4,none
+Males,Slovakia,2013,71.8,none
+Males,Slovakia,2014,72.7,none
+Males,Slovakia,2015,74.5,none
+Males,Slovakia,2016,76.4,none
+Males,Slovakia,2017,77.0,none
+Males,Slovakia,2018,78.8,none
+Males,Slovakia,2019,79.4,none
+Males,Slovakia,2020,78.2,none
+Males,Slovakia,2021,78.9,none
+Males,Slovakia,2022,80.7,none
+Males,Slovakia,2023,81.3,none
+Males,Slovakia,2024,82.5,none
+Males,Slovakia,2025,82.4,none
+Males,Türkiye,2009,70.4,none
+Males,Türkiye,2010,72.7,none
+Males,Türkiye,2011,75.1,none
+Males,Türkiye,2012,75.0,none
+Males,Türkiye,2013,75.3,none
+Males,Türkiye,2014,75.0,b
+Males,Türkiye,2015,75.3,none
+Males,Türkiye,2016,75.5,none
+Males,Türkiye,2017,76.1,none
+Males,Türkiye,2018,76.0,none
+Males,Türkiye,2019,73.2,none
+Males,Türkiye,2020,70.1,none
+Males,Türkiye,2021,73.6,b
+Males,Türkiye,2022,75.9,none
+Males,Türkiye,2023,76.5,none
+Males,Türkiye,2024,77.5,none
+Males,Türkiye,2025,77.1,none
+Total,Austria,2009,73.4,none
+Total,Austria,2010,73.9,none
+Total,Austria,2011,74.2,none
+Total,Austria,2012,74.4,none
+Total,Austria,2013,74.6,none
+Total,Austria,2014,74.2,none
+Total,Austria,2015,74.3,none
+Total,Austria,2016,74.8,none
+Total,Austria,2017,75.4,none
+Total,Austria,2018,76.2,none
+Total,Austria,2019,76.8,none
+Total,Austria,2020,74.8,none
+Total,Austria,2021,75.6,none
+Total,Austria,2022,77.3,none
+Total,Austria,2023,77.2,none
+Total,Austria,2024,77.4,none
+Total,Austria,2025,77.6,none
+Total,Bosnia and Herzegovina,2021,52.6,none
+Total,Bosnia and Herzegovina,2022,53.9,none
+Total,Bosnia and Herzegovina,2023,55.9,none
+Total,Bosnia and Herzegovina,2024,58.2,none
+Total,Bosnia and Herzegovina,2025,59.5,none
+Total,Belgium,2009,67.1,none
+Total,Belgium,2010,67.6,none
+Total,Belgium,2011,67.3,none
+Total,Belgium,2012,67.2,none
+Total,Belgium,2013,67.2,none
+Total,Belgium,2014,67.3,none
+Total,Belgium,2015,67.2,none
+Total,Belgium,2016,67.7,none
+Total,Belgium,2017,68.5,b
+Total,Belgium,2018,69.7,none
+Total,Belgium,2019,70.5,none
+Total,Belgium,2020,69.7,none
+Total,Belgium,2021,70.6,none
+Total,Belgium,2022,71.9,none
+Total,Belgium,2023,72.1,none
+Total,Belgium,2024,72.3,none
+Total,Belgium,2025,72.8,none
+Total,Bulgaria,2009,68.2,none
+Total,Bulgaria,2010,64.1,b
+Total,Bulgaria,2011,62.3,b
+Total,Bulgaria,2012,62.4,none
+Total,Bulgaria,2013,62.9,none
+Total,Bulgaria,2014,64.4,none
+Total,Bulgaria,2015,66.5,none
+Total,Bulgaria,2016,67.0,none
+Total,Bulgaria,2017,70.6,none
+Total,Bulgaria,2018,71.7,none
+Total,Bulgaria,2019,74.3,b
+Total,Bulgaria,2020,72.7,none
+Total,Bulgaria,2021,73.3,none
+Total,Bulgaria,2022,75.9,none
+Total,Bulgaria,2023,76.2,none
+Total,Bulgaria,2024,76.8,b
+Total,Bulgaria,2025,77.0,none
+Total,Switzerland,2010,79.7,b
+Total,Switzerland,2011,80.8,none
+Total,Switzerland,2012,81.0,none
+Total,Switzerland,2013,80.8,none
+Total,Switzerland,2014,81.1,none
+Total,Switzerland,2015,81.7,none
+Total,Switzerland,2016,82.0,none
+Total,Switzerland,2017,82.1,none
+Total,Switzerland,2018,82.5,none
+Total,Switzerland,2019,82.9,none
+Total,Switzerland,2020,82.5,none
+Total,Switzerland,2021,82.0,none
+Total,Switzerland,2022,82.4,none
+Total,Switzerland,2023,83.1,none
+Total,Switzerland,2024,83.0,none
+Total,Switzerland,2025,82.4,none
+Total,Cyprus,2009,75.3,none
+Total,Cyprus,2010,75.0,none
+Total,Cyprus,2011,73.4,none
+Total,Cyprus,2012,70.2,none
+Total,Cyprus,2013,67.2,none
+Total,Cyprus,2014,67.6,none
+Total,Cyprus,2015,67.9,none
+Total,Cyprus,2016,68.7,none
+Total,Cyprus,2017,70.8,none
+Total,Cyprus,2018,73.9,none
+Total,Cyprus,2019,75.8,none
+Total,Cyprus,2020,75.2,none
+Total,Cyprus,2021,76.3,none
+Total,Cyprus,2022,78.6,none
+Total,Cyprus,2023,79.5,none
+Total,Cyprus,2024,79.8,none
+Total,Cyprus,2025,81.3,none
+Total,Czechia,2009,70.9,none
+Total,Czechia,2010,70.4,none
+Total,Czechia,2011,70.9,b
+Total,Czechia,2012,71.5,none
+Total,Czechia,2013,72.5,none
+Total,Czechia,2014,73.5,none
+Total,Czechia,2015,74.8,none
+Total,Czechia,2016,76.7,none
+Total,Czechia,2017,78.5,none
+Total,Czechia,2018,79.9,none
+Total,Czechia,2019,80.3,none
+Total,Czechia,2020,79.7,none
+Total,Czechia,2021,80.0,none
+Total,Czechia,2022,81.3,none
+Total,Czechia,2023,81.7,none
+Total,Czechia,2024,82.3,none
+Total,Czechia,2025,82.9,none
+Total,Germany,2009,73.2,none
+Total,Germany,2010,74.0,b
+Total,Germany,2011,75.4,b
+Total,Germany,2012,75.8,none
+Total,Germany,2013,76.3,none
+Total,Germany,2014,76.7,none
+Total,Germany,2015,77.0,none
+Total,Germany,2016,77.6,none
+Total,Germany,2017,78.3,none
+Total,Germany,2018,79.0,none
+Total,Germany,2019,79.7,none
+Total,Germany,2020,78.3,b
+Total,Germany,2021,79.6,none
+Total,Germany,2022,80.8,none
+Total,Germany,2023,81.1,none
+Total,Germany,2024,81.3,none
+Total,Germany,2025,81.1,none
+Total,Denmark,2009,76.1,none
+Total,Denmark,2010,74.9,none
+Total,Denmark,2011,74.8,none
+Total,Denmark,2012,74.3,none
+Total,Denmark,2013,74.3,none
+Total,Denmark,2014,74.7,none
+Total,Denmark,2015,75.4,none
+Total,Denmark,2016,76.0,b
+Total,Denmark,2017,76.6,b
+Total,Denmark,2018,77.5,none
+Total,Denmark,2019,78.3,none
+Total,Denmark,2020,77.8,none
+Total,Denmark,2021,79.0,none
+Total,Denmark,2022,80.1,none
+Total,Denmark,2023,79.8,b
+Total,Denmark,2024,80.2,none
+Total,Denmark,2025,79.8,none
+Total,Euro area – 20 countries (2023-2025),2009,68.3,none
+Total,Euro area – 20 countries (2023-2025),2010,67.9,none
+Total,Euro area – 20 countries (2023-2025),2011,68.0,none
+Total,Euro area – 20 countries (2023-2025),2012,67.6,none
+Total,Euro area – 20 countries (2023-2025),2013,67.3,none
+Total,Euro area – 20 countries (2023-2025),2014,67.8,none
+Total,Euro area – 20 countries (2023-2025),2015,68.7,none
+Total,Euro area – 20 countries (2023-2025),2016,69.7,none
+Total,Euro area – 20 countries (2023-2025),2017,70.7,none
+Total,Euro area – 20 countries (2023-2025),2018,71.7,none
+Total,Euro area – 20 countries (2023-2025),2019,72.4,none
+Total,Euro area – 20 countries (2023-2025),2020,71.1,none
+Total,Euro area – 20 countries (2023-2025),2021,72.4,none
+Total,Euro area – 20 countries (2023-2025),2022,74.0,none
+Total,Euro area – 20 countries (2023-2025),2023,74.7,none
+Total,Euro area – 20 countries (2023-2025),2024,75.3,none
+Total,Euro area – 20 countries (2023-2025),2025,75.7,none
+Total,Euro area – 21 countries (from 2026),2009,68.3,none
+Total,Euro area – 21 countries (from 2026),2010,67.8,none
+Total,Euro area – 21 countries (from 2026),2011,67.9,none
+Total,Euro area – 21 countries (from 2026),2012,67.4,none
+Total,Euro area – 21 countries (from 2026),2013,67.2,none
+Total,Euro area – 21 countries (from 2026),2014,67.8,none
+Total,Euro area – 21 countries (from 2026),2015,68.6,none
+Total,Euro area – 21 countries (from 2026),2016,69.6,none
+Total,Euro area – 21 countries (from 2026),2017,70.7,none
+Total,Euro area – 21 countries (from 2026),2018,71.7,none
+Total,Euro area – 21 countries (from 2026),2019,72.5,none
+Total,Euro area – 21 countries (from 2026),2020,71.2,none
+Total,Euro area – 21 countries (from 2026),2021,72.4,none
+Total,Euro area – 21 countries (from 2026),2022,74.0,none
+Total,Euro area – 21 countries (from 2026),2023,74.8,none
+Total,Euro area – 21 countries (from 2026),2024,75.3,none
+Total,Euro area – 21 countries (from 2026),2025,75.7,none
+Total,Estonia,2009,70.5,none
+Total,Estonia,2010,67.6,none
+Total,Estonia,2011,71.0,none
+Total,Estonia,2012,73.1,none
+Total,Estonia,2013,74.1,none
+Total,Estonia,2014,75.0,none
+Total,Estonia,2015,76.7,none
+Total,Estonia,2016,77.0,none
+Total,Estonia,2017,79.2,none
+Total,Estonia,2018,79.7,none
+Total,Estonia,2019,80.5,none
+Total,Estonia,2020,79.1,none
+Total,Estonia,2021,79.3,none
+Total,Estonia,2022,81.9,none
+Total,Estonia,2023,82.1,none
+Total,Estonia,2024,81.8,none
+Total,Estonia,2025,81.7,none
+Total,Greece,2009,65.4,none
+Total,Greece,2010,63.5,none
+Total,Greece,2011,59.3,none
+Total,Greece,2012,54.5,none
+Total,Greece,2013,52.5,none
+Total,Greece,2014,53.1,none
+Total,Greece,2015,54.8,none
+Total,Greece,2016,55.9,none
+Total,Greece,2017,57.4,none
+Total,Greece,2018,59.0,none
+Total,Greece,2019,60.8,none
+Total,Greece,2020,58.3,none
+Total,Greece,2021,62.6,none
+Total,Greece,2022,66.3,none
+Total,Greece,2023,67.4,none
+Total,Greece,2024,69.3,none
+Total,Greece,2025,71.0,none
+Total,Spain,2009,64.0,none
+Total,Spain,2010,62.8,none
+Total,Spain,2011,62.0,none
+Total,Spain,2012,59.6,none
+Total,Spain,2013,58.6,none
+Total,Spain,2014,59.9,none
+Total,Spain,2015,62.0,none
+Total,Spain,2016,63.9,none
+Total,Spain,2017,65.5,none
+Total,Spain,2018,67.0,none
+Total,Spain,2019,68.0,none
+Total,Spain,2020,65.7,none
+Total,Spain,2021,67.5,d
+Total,Spain,2022,69.3,d
+Total,Spain,2023,70.5,d
+Total,Spain,2024,71.4,d
+Total,Spain,2025,72.4,d
+Total,European Union - 27 countries (from 2020),2009,67.3,none
+Total,European Union - 27 countries (from 2020),2010,67.0,none
+Total,European Union - 27 countries (from 2020),2011,67.1,none
+Total,European Union - 27 countries (from 2020),2012,66.9,none
+Total,European Union - 27 countries (from 2020),2013,66.8,none
+Total,European Union - 27 countries (from 2020),2014,67.6,none
+Total,European Union - 27 countries (from 2020),2015,68.5,none
+Total,European Union - 27 countries (from 2020),2016,69.7,none
+Total,European Union - 27 countries (from 2020),2017,70.9,none
+Total,European Union - 27 countries (from 2020),2018,71.9,none
+Total,European Union - 27 countries (from 2020),2019,72.7,none
+Total,European Union - 27 countries (from 2020),2020,71.7,none
+Total,European Union - 27 countries (from 2020),2021,73.1,none
+Total,European Union - 27 countries (from 2020),2022,74.6,none
+Total,European Union - 27 countries (from 2020),2023,75.3,none
+Total,European Union - 27 countries (from 2020),2024,75.8,none
+Total,European Union - 27 countries (from 2020),2025,76.1,none
+Total,Finland,2009,72.6,none
+Total,Finland,2010,71.9,none
+Total,Finland,2011,72.7,none
+Total,Finland,2012,73.0,none
+Total,Finland,2013,72.5,none
+Total,Finland,2014,72.2,none
+Total,Finland,2015,71.8,none
+Total,Finland,2016,72.4,none
+Total,Finland,2017,73.2,none
+Total,Finland,2018,75.3,none
+Total,Finland,2019,76.2,none
+Total,Finland,2020,75.5,none
+Total,Finland,2021,76.8,none
+Total,Finland,2022,78.4,none
+Total,Finland,2023,78.2,none
+Total,Finland,2024,77.0,none
+Total,Finland,2025,76.3,none
+Total,France,2005,69.8,none
+Total,France,2006,69.7,none
+Total,France,2007,70.2,none
+Total,France,2008,70.8,none
+Total,France,2009,69.8,none
+Total,France,2010,69.6,none
+Total,France,2011,69.5,none
+Total,France,2012,69.7,none
+Total,France,2013,69.7,none
+Total,France,2014,70.0,none
+Total,France,2015,70.3,none
+Total,France,2016,70.7,none
+Total,France,2017,71.3,none
+Total,France,2018,72.0,none
+Total,France,2019,72.3,none
+Total,France,2020,72.1,none
+Total,France,2021,73.2,d
+Total,France,2022,74.0,d
+Total,France,2023,74.4,d
+Total,France,2024,75.1,d
+Total,France,2025,75.5,d
+Total,Croatia,2009,64.2,none
+Total,Croatia,2010,62.0,none
+Total,Croatia,2011,60.0,none
+Total,Croatia,2012,58.1,none
+Total,Croatia,2013,57.2,none
+Total,Croatia,2014,59.1,none
+Total,Croatia,2015,60.5,none
+Total,Croatia,2016,61.3,none
+Total,Croatia,2017,63.2,none
+Total,Croatia,2018,64.9,none
+Total,Croatia,2019,66.4,none
+Total,Croatia,2020,66.9,none
+Total,Croatia,2021,68.6,none
+Total,Croatia,2022,70.2,none
+Total,Croatia,2023,70.8,none
+Total,Croatia,2024,73.6,none
+Total,Croatia,2025,74.4,none
+Total,Hungary,2009,62.5,none
+Total,Hungary,2010,62.2,none
+Total,Hungary,2011,62.8,none
+Total,Hungary,2012,63.8,none
+Total,Hungary,2013,65.2,none
+Total,Hungary,2014,68.7,none
+Total,Hungary,2015,70.9,none
+Total,Hungary,2016,73.7,none
+Total,Hungary,2017,75.4,none
+Total,Hungary,2018,76.8,b
+Total,Hungary,2019,77.7,none
+Total,Hungary,2020,77.6,none
+Total,Hungary,2021,78.9,none
+Total,Hungary,2022,80.3,none
+Total,Hungary,2023,80.7,none
+Total,Hungary,2024,81.1,none
+Total,Hungary,2025,81.1,none
+Total,Ireland,2009,68.0,none
+Total,Ireland,2010,65.5,none
+Total,Ireland,2011,64.5,none
+Total,Ireland,2012,64.5,none
+Total,Ireland,2013,66.5,none
+Total,Ireland,2014,68.1,none
+Total,Ireland,2015,69.8,none
+Total,Ireland,2016,71.3,none
+Total,Ireland,2017,72.9,none
+Total,Ireland,2018,74.0,none
+Total,Ireland,2019,75.0,none
+Total,Ireland,2020,72.1,none
+Total,Ireland,2021,74.9,b
+Total,Ireland,2022,78.2,none
+Total,Ireland,2023,79.1,none
+Total,Ireland,2024,79.8,none
+Total,Ireland,2025,80.2,none
+Total,Iceland,2009,80.6,none
+Total,Iceland,2010,80.4,none
+Total,Iceland,2011,80.6,none
+Total,Iceland,2012,81.8,none
+Total,Iceland,2013,82.8,none
+Total,Iceland,2014,84.9,none
+Total,Iceland,2015,86.5,none
+Total,Iceland,2016,87.8,none
+Total,Iceland,2017,87.6,none
+Total,Iceland,2018,86.5,none
+Total,Iceland,2019,85.9,none
+Total,Iceland,2020,82.3,b
+Total,Iceland,2021,81.4,none
+Total,Iceland,2022,84.8,none
+Total,Iceland,2023,85.3,none
+Total,Iceland,2024,87.0,none
+Total,Italy,2009,61.1,none
+Total,Italy,2010,60.5,none
+Total,Italy,2011,60.5,none
+Total,Italy,2012,60.2,none
+Total,Italy,2013,59.1,none
+Total,Italy,2014,59.5,none
+Total,Italy,2015,60.2,none
+Total,Italy,2016,61.4,none
+Total,Italy,2017,62.3,none
+Total,Italy,2018,63.0,b
+Total,Italy,2019,63.5,none
+Total,Italy,2020,61.9,none
+Total,Italy,2021,62.7,none
+Total,Italy,2022,64.8,none
+Total,Italy,2023,66.3,none
+Total,Italy,2024,67.1,none
+Total,Italy,2025,67.6,none
+Total,Lithuania,2009,67.0,none
+Total,Lithuania,2010,64.3,none
+Total,Lithuania,2011,66.9,none
+Total,Lithuania,2012,68.5,none
+Total,Lithuania,2013,69.9,none
+Total,Lithuania,2014,71.8,none
+Total,Lithuania,2015,73.3,none
+Total,Lithuania,2016,75.2,none
+Total,Lithuania,2017,76.0,none
+Total,Lithuania,2018,77.8,none
+Total,Lithuania,2019,78.2,none
+Total,Lithuania,2020,76.7,none
+Total,Lithuania,2021,77.4,none
+Total,Lithuania,2022,79.0,none
+Total,Lithuania,2023,78.5,none
+Total,Lithuania,2024,79.2,none
+Total,Lithuania,2025,80.0,none
+Total,Luxembourg,2009,70.4,none
+Total,Luxembourg,2010,70.7,none
+Total,Luxembourg,2011,70.1,none
+Total,Luxembourg,2012,71.4,none
+Total,Luxembourg,2013,71.1,none
+Total,Luxembourg,2014,72.1,none
+Total,Luxembourg,2015,70.9,b
+Total,Luxembourg,2016,70.7,none
+Total,Luxembourg,2017,71.5,none
+Total,Luxembourg,2018,72.1,none
+Total,Luxembourg,2019,72.8,none
+Total,Luxembourg,2020,72.1,none
+Total,Luxembourg,2021,74.1,none
+Total,Luxembourg,2022,74.8,none
+Total,Luxembourg,2023,74.8,none
+Total,Luxembourg,2024,74.2,none
+Total,Luxembourg,2025,73.9,none
+Total,Latvia,2009,66.3,none
+Total,Latvia,2010,63.9,none
+Total,Latvia,2011,66.1,none
+Total,Latvia,2012,67.9,none
+Total,Latvia,2013,69.5,none
+Total,Latvia,2014,70.6,none
+Total,Latvia,2015,72.5,none
+Total,Latvia,2016,73.0,none
+Total,Latvia,2017,74.6,none
+Total,Latvia,2018,76.8,none
+Total,Latvia,2019,77.3,none
+Total,Latvia,2020,76.9,none
+Total,Latvia,2021,75.3,none
+Total,Latvia,2022,77.0,none
+Total,Latvia,2023,77.5,none
+Total,Latvia,2024,77.4,none
+Total,Latvia,2025,78.2,none
+Total,Montenegro,2011,50.7,none
+Total,Montenegro,2012,52.0,none
+Total,Montenegro,2013,52.7,none
+Total,Montenegro,2014,55.6,none
+Total,Montenegro,2015,56.7,none
+Total,Montenegro,2016,57.1,none
+Total,Montenegro,2017,58.2,none
+Total,Montenegro,2018,59.8,none
+Total,Montenegro,2019,60.8,none
+Total,Montenegro,2020,55.2,none
+Total,North Macedonia,2009,47.9,none
+Total,North Macedonia,2010,48.1,none
+Total,North Macedonia,2011,48.4,none
+Total,North Macedonia,2012,48.2,none
+Total,North Macedonia,2013,50.3,none
+Total,North Macedonia,2014,51.3,none
+Total,North Macedonia,2015,51.9,none
+Total,North Macedonia,2016,53.3,none
+Total,North Macedonia,2017,54.8,none
+Total,North Macedonia,2018,56.1,none
+Total,North Macedonia,2019,59.2,none
+Total,North Macedonia,2020,59.1,none
+Total,North Macedonia,2021,61.2,b
+Total,North Macedonia,2022,61.8,none
+Total,North Macedonia,2023,61.7,none
+Total,North Macedonia,2024,62.7,none
+Total,North Macedonia,2025,63.7,none
+Total,Malta,2009,59.0,none
+Total,Malta,2010,60.1,none
+Total,Malta,2011,61.6,none
+Total,Malta,2012,63.9,none
+Total,Malta,2013,66.2,none
+Total,Malta,2014,67.9,none
+Total,Malta,2015,69.0,none
+Total,Malta,2016,71.1,none
+Total,Malta,2017,73.0,none
+Total,Malta,2018,74.9,none
+Total,Malta,2019,75.6,none
+Total,Malta,2020,76.0,none
+Total,Malta,2021,77.8,none
+Total,Malta,2022,80.1,none
+Total,Malta,2023,81.3,none
+Total,Malta,2024,82.7,none
+Total,Malta,2025,83.6,none
+Total,Netherlands,2009,77.6,none
+Total,Netherlands,2010,77.0,none
+Total,Netherlands,2011,77.2,none
+Total,Netherlands,2012,77.5,none
+Total,Netherlands,2013,76.7,none
+Total,Netherlands,2014,76.3,none
+Total,Netherlands,2015,77.2,none
+Total,Netherlands,2016,77.9,none
+Total,Netherlands,2017,78.9,none
+Total,Netherlands,2018,80.0,none
+Total,Netherlands,2019,81.0,none
+Total,Netherlands,2020,80.8,none
+Total,Netherlands,2021,81.7,none
+Total,Netherlands,2022,82.9,none
+Total,Netherlands,2023,83.5,none
+Total,Netherlands,2024,83.5,none
+Total,Netherlands,2025,83.4,none
+Total,Norway,2009,80.9,none
+Total,Norway,2010,80.0,none
+Total,Norway,2011,80.4,none
+Total,Norway,2012,80.4,none
+Total,Norway,2013,80.2,none
+Total,Norway,2014,80.1,none
+Total,Norway,2015,79.7,none
+Total,Norway,2016,79.4,none
+Total,Norway,2017,79.2,none
+Total,Norway,2018,80.0,none
+Total,Norway,2019,80.2,none
+Total,Norway,2020,79.7,none
+Total,Norway,2021,80.0,none
+Total,Norway,2022,80.9,none
+Total,Norway,2023,80.4,none
+Total,Norway,2024,80.0,none
+Total,Norway,2025,79.5,none
+Total,Poland,2009,62.6,none
+Total,Poland,2010,62.2,b
+Total,Poland,2011,62.5,none
+Total,Poland,2012,62.9,none
+Total,Poland,2013,63.2,none
+Total,Poland,2014,64.9,none
+Total,Poland,2015,66.3,none
+Total,Poland,2016,68.2,none
+Total,Poland,2017,70.0,none
+Total,Poland,2018,71.4,none
+Total,Poland,2019,72.6,b
+Total,Poland,2020,72.8,none
+Total,Poland,2021,75.5,none
+Total,Poland,2022,76.7,none
+Total,Poland,2023,77.9,none
+Total,Poland,2024,78.4,none
+Total,Poland,2025,78.8,none
+Total,Portugal,2009,67.6,none
+Total,Portugal,2010,66.9,none
+Total,Portugal,2011,66.6,none
+Total,Portugal,2012,64.0,none
+Total,Portugal,2013,63.4,none
+Total,Portugal,2014,66.1,none
+Total,Portugal,2015,67.9,none
+Total,Portugal,2016,69.5,none
+Total,Portugal,2017,72.5,none
+Total,Portugal,2018,74.6,none
+Total,Portugal,2019,75.4,none
+Total,Portugal,2020,73.9,none
+Total,Portugal,2021,75.5,none
+Total,Portugal,2022,77.1,none
+Total,Portugal,2023,78.0,none
+Total,Portugal,2024,78.5,none
+Total,Portugal,2025,79.6,none
+Total,Romania,2009,53.9,none
+Total,Romania,2010,56.3,none
+Total,Romania,2011,56.0,none
+Total,Romania,2012,56.8,none
+Total,Romania,2013,56.9,none
+Total,Romania,2014,58.0,none
+Total,Romania,2015,59.2,none
+Total,Romania,2016,60.3,none
+Total,Romania,2017,62.7,none
+Total,Romania,2018,63.9,none
+Total,Romania,2019,65.1,none
+Total,Romania,2020,65.2,none
+Total,Romania,2021,67.1,none
+Total,Romania,2022,68.5,none
+Total,Romania,2023,68.7,none
+Total,Romania,2024,69.5,none
+Total,Romania,2025,69.0,none
+Total,Serbia,2010,51.8,none
+Total,Serbia,2011,48.2,none
+Total,Serbia,2012,47.9,none
+Total,Serbia,2013,50.6,none
+Total,Serbia,2014,53.5,none
+Total,Serbia,2015,54.8,none
+Total,Serbia,2016,57.9,none
+Total,Serbia,2017,60.4,none
+Total,Serbia,2018,62.2,none
+Total,Serbia,2019,62.9,none
+Total,Serbia,2020,63.7,none
+Total,Serbia,2021,66.2,none
+Total,Serbia,2022,68.8,none
+Total,Serbia,2023,69.6,none
+Total,Serbia,2024,71.3,none
+Total,Serbia,2025,71.6,none
+Total,Sweden,2005,77.7,none
+Total,Sweden,2006,78.4,none
+Total,Sweden,2007,79.7,none
+Total,Sweden,2008,80.0,none
+Total,Sweden,2009,77.9,none
+Total,Sweden,2010,77.7,none
+Total,Sweden,2011,79.0,none
+Total,Sweden,2012,79.1,none
+Total,Sweden,2013,79.4,none
+Total,Sweden,2014,79.6,none
+Total,Sweden,2015,80.1,none
+Total,Sweden,2016,80.8,none
+Total,Sweden,2017,81.4,none
+Total,Sweden,2018,82.0,none
+Total,Sweden,2019,81.7,none
+Total,Sweden,2020,80.2,none
+Total,Sweden,2021,80.4,none
+Total,Sweden,2022,82.0,none
+Total,Sweden,2023,82.6,none
+Total,Sweden,2024,81.9,none
+Total,Sweden,2025,81.8,none
+Total,Slovenia,2009,71.4,none
+Total,Slovenia,2010,69.7,none
+Total,Slovenia,2011,67.8,none
+Total,Slovenia,2012,67.8,none
+Total,Slovenia,2013,66.7,none
+Total,Slovenia,2014,67.3,none
+Total,Slovenia,2015,68.6,none
+Total,Slovenia,2016,69.5,none
+Total,Slovenia,2017,72.9,none
+Total,Slovenia,2018,74.9,none
+Total,Slovenia,2019,75.9,none
+Total,Slovenia,2020,74.8,none
+Total,Slovenia,2021,76.1,none
+Total,Slovenia,2022,77.9,none
+Total,Slovenia,2023,77.5,none
+Total,Slovenia,2024,78.3,none
+Total,Slovenia,2025,78.3,none
+Total,Slovakia,2009,68.3,none
+Total,Slovakia,2010,66.5,none
+Total,Slovakia,2011,66.8,b
+Total,Slovakia,2012,66.9,none
+Total,Slovakia,2013,66.9,none
+Total,Slovakia,2014,67.8,none
+Total,Slovakia,2015,69.6,none
+Total,Slovakia,2016,71.8,none
+Total,Slovakia,2017,73.2,none
+Total,Slovakia,2018,74.5,none
+Total,Slovakia,2019,75.6,none
+Total,Slovakia,2020,74.6,none
+Total,Slovakia,2021,74.6,none
+Total,Slovakia,2022,76.7,none
+Total,Slovakia,2023,77.5,none
+Total,Slovakia,2024,78.1,none
+Total,Slovakia,2025,78.1,none
+Total,Türkiye,2009,47.8,none
+Total,Türkiye,2010,50.0,none
+Total,Türkiye,2011,52.2,none
+Total,Türkiye,2012,52.8,none
+Total,Türkiye,2013,53.4,none
+Total,Türkiye,2014,53.2,b
+Total,Türkiye,2015,53.9,none
+Total,Türkiye,2016,54.4,none
+Total,Türkiye,2017,55.3,none
+Total,Türkiye,2018,55.6,none
+Total,Türkiye,2019,53.8,none
+Total,Türkiye,2020,51.0,none
+Total,Türkiye,2021,53.9,b
+Total,Türkiye,2022,56.5,none
+Total,Türkiye,2023,57.3,none
+Total,Türkiye,2024,58.5,none
+Total,Türkiye,2025,58.1,none
